@@ -69,7 +69,7 @@ I confirmed follwoing environments.
 - HPE ProLiant DL360 Gen9
 
 ## SEE ALSO
-- [HPE Integrated Lights Out](https://www.hpe.com/info/ilo/)
+- [HPE Integrated Lights Out](https://www.hpe.com/info/ilo/) ([http://www.hpe.com/jp/servers/ilo](Japanese))
 - [Drivers & Software for HPE Integrated Lights-Out 4 - HPE Support Center](https://www.hpe.com/support/iLO4)
 - [Drivers & Software for HPE Integrated Lights-Out 5 - HPE Support Center](https://www.hpe.com/support/iLO5)
 - [Latest HP ILO firmwares](http://pingtool.org/latest-hp-ilo-firmwares/) (HPE unofficial)
