@@ -73,6 +73,14 @@ I confirmed follwoing environments.
 - [Drivers & Software for HPE Integrated Lights-Out 4 - HPE Support Center](https://www.hpe.com/support/iLO4)
 - [Drivers & Software for HPE Integrated Lights-Out 5 - HPE Support Center](https://www.hpe.com/support/iLO5)
 - [Latest HP ILO firmwares](http://pingtool.org/latest-hp-ilo-firmwares/) (HPE unofficial)
+- iLO4 API Reference
+  - [POST Action “GenerateCSR”](https://hewlettpackard.github.io/ilo-rest-api-docs/ilo4/#post-action-generatecsr)
+  - [CertificateSigningRequest](https://hewlettpackard.github.io/ilo-rest-api-docs/ilo4/#certificatesigningrequest)
+  - [POST Action “ImportCertificate”](https://hewlettpackard.github.io/ilo-rest-api-docs/ilo4/#post-action-importcertificate)
+- iLO5 API Reference
+  - [POST Action “HpeHttpsCert.GenerateCSR”](https://hewlettpackard.github.io/ilo-rest-api-docs/ilo5/#post-action-hpehttpscert-generatecsr)
+  - [CertificateSigningRequest](https://hewlettpackard.github.io/ilo-rest-api-docs/ilo5/#certificatesigningrequest)
+  - [POST Action “HpeHttpsCert.ImportCertificate”](https://hewlettpackard.github.io/ilo-rest-api-docs/ilo5/#post-action-hpehttpscert-importcertificate)
 
 ## Sponsored
 [Entermotion Inc.](http://entermotion.jp/) (Japanese only)
